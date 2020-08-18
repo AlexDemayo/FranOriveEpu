@@ -1,0 +1,125 @@
+v1.1.10 - 2020-02-07
+-----------------------------
+* Feature : My Account profile edit section added
+* Feature : WPForms Integration
+* Update  : Dummy data updated for WPForms
+* Fix     : Single movie description tab responsive issues fixed
+* Fix     : Landing tabs features block link issue fixed
+* Fix     : Coming soon Launch Section form issues fixed
+* Fix     : Blog grid v3 style issues fixed
+* Fix     : Episode block issues fixed
+
+v1.1.9 - 2020-01-17
+-----------------------------
+* Fix     : Person single page issues fixed
+* Fix     : Episode single page issues fixed
+* Fix     : TMDB importer description issue fixed
+* Fix     : Movie single modal responsive issue fixed
+
+v1.1.8 - 2019-12-19
+-----------------------------
+* Feature : Compatible with Modern Video Player plugin
+* Feature : Compatible with Elite Video Player plugin
+* Fix     : Person single page responsive issue fixed
+* Fix     : PHP 5 compatibility issue fixed
+
+v1.1.7 - 2019-11-26
+-----------------------------
+* Update  : Video single page sharing added
+* Update  : Filters added for blocks range max limit
+* Fix     : Movies slider block style issues fixed
+* Fix     : Videos block Top rated option removed
+
+v1.1.6 - 2019-10-25
+-----------------------------
+* Feature : Compatible with Easy Video Player plugin
+* Update  : Open link in new tab added for banner block
+* Update  : Views diabled if there are no views
+* Fix     : Previous/Next navigation issue fixed
+* Fix     : Landing Page header issues fixed
+
+v1.1.5 - 2019-10-11
+-----------------------------
+* Update  : Upload video page updated
+* Update  : Search results page updated
+* Fix     : Movie player modal issue fixed
+* Fix     : Movie slider block RTL issue fixed
+
+v1.1.4 - 2019-09-20
+-----------------------------
+* Fix     : Handheld header search issues fixed
+* Fix     : Landing Page header issues fixed
+
+v1.1.3 - 2019-08-29
+-----------------------------
+* Update  : Prime dummy data updated
+* Fix     : One click importer issues fixed
+
+v1.1.2 - 2019-08-02
+-----------------------------
+* Update  : Watch now button added for Movie v5, v6 and v7
+* Fix     : Fixed an issue with search widget
+
+v1.1.1 - 2019-07-21
+-----------------------------
+* Fix     : Fixed issues with Persons
+
+v1.1.0 - 2019-07-19
+-----------------------------
+* Feature : TMDB Importer added
+* Feature : Download button added
+* Feature : Video Player Popup added
+* Feature : New 3 movie styles added
+* Feature : Persons added for Cast and Crew
+* Update  : Dummy data updated
+* Update  : Account page registration option added
+* Fix     : One click importer issues fixed
+
+v1.0.6 - 2019-06-21
+-----------------------------
+* Fix     : Related TV Show carousel issue fixed
+
+v1.0.5 - 2019-06-15
+-----------------------------
+* Feature : Compatible with more Video Players and shortcodes in embed content
+* Feature : Compatible with Fluid Player, FV Player and many other players
+* Feature : RTL Compatible
+* Update  : Placeholder image hover color updated
+* Fix     : Embed video escape issue fixed
+* Fix     : Video responsive issues fixed
+* Fix     : Sidebar layout issue fixed
+
+v1.0.4 - 2019-05-31
+-----------------------------
+* Update  : Sources "Play now" button scroll to player added
+* Update  : TV Show single page tabs added
+* Update  : Header search form updated
+* Fix     : Movies gutenberg blocks orderby date issue fixed
+* Fix     : Movies archive orderby latest issue fixed
+
+v1.0.3 - 2019-05-25
+-----------------------------
+* Feature : Sources feature added
+* Feature : Upload page added
+
+v1.0.2 - 2019-05-16
+-----------------------------
+* Feature : My Account page added
+* Feature : Thumbnails for Videos
+* Update  : Header account links updated
+* Fix     : Fixed style issues in movies list
+* Fix     : Fixed an issue with orderby views
+* Fix     : Fixed style issue with single video player
+* Fix     : Fixed admin sidebar meta field style issue
+* Fix     : Fixed an issue with Movies Filter by Year
+
+v1.0.1 - 2019-05-07
+-----------------------------
+* Feature : Playlist pages added to user dropdown
+* Fix     : Fixed issues in footer theme option
+* Fix     : Fixed warning with jetpack views
+* Fix     : Fixed style issues in home v2
+
+v1.0.0 - 2019-05-03
+-----------------------------
+* Initial Release
